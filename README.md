@@ -81,4 +81,5 @@ No estudo da última imagem (Satelite.jpeg) foi realizado dois estudos:
 ### Conclusão 
 
 Durante o estudo, notamos que dependendo dos valores utilizados na conversão de imagem para preto e branco, no tamanho do Kernel e na detecção de bordas com e sem blurry, os contornos das imagens podem ficar muito distorcidos. Para cada imagem, foi necessário realizar vários testes até se adquirir um resultado agradável. 
+
 Notamos também, que não obrigatoriamente, dependendo da imagem de base utilizada no contorno, o mesmo será gerado em torno das áreas mais claras ou mais escuras da imagem, como apresentado no estudo da imagem Satelite.jpeg

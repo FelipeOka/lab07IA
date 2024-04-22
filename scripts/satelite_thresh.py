@@ -3,8 +3,6 @@ import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 
-#ESTUDO DE CASO COM THRESH
-
 #Importa e converta para RGB
 img = cv2.imread('Satelite.jpeg')
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
